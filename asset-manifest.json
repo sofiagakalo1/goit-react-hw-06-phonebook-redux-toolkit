@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sofiagakalo1-goit-react-hw-06-phonebook-redux-toolkit/static/css/main.1ce79537.css",
+    "main.js": "/sofiagakalo1-goit-react-hw-06-phonebook-redux-toolkit/static/js/main.8164e98e.js",
+    "index.html": "/sofiagakalo1-goit-react-hw-06-phonebook-redux-toolkit/index.html",
+    "main.1ce79537.css.map": "/sofiagakalo1-goit-react-hw-06-phonebook-redux-toolkit/static/css/main.1ce79537.css.map",
+    "main.8164e98e.js.map": "/sofiagakalo1-goit-react-hw-06-phonebook-redux-toolkit/static/js/main.8164e98e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ce79537.css",
+    "static/js/main.8164e98e.js"
+  ]
+}
